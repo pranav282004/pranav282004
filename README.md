@@ -1,5 +1,6 @@
-- Just Learning 🤗
-<!---
-pranav282004/pranav282004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Solving People's Problems with A.I in General A.I
+Living in his 20's
+Software DEV 
+Data Science
+LIke to train deep neural network - (BUT NOT PRETRAINED)
+😜
